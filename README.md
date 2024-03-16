@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jasmine! Cloud Engineer, Programmer, Youtuber</h1>
+<h1>Hi, I'm Jasmine! Software Engineer, Programmer, Youtuber</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
